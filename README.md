@@ -2,7 +2,7 @@
 my new project
 
 Based on seed project `atomist-seeds:spring-rest-seed`
-aaa
+aaaa
 ## Development
 
 This project is driven using [Maven][mvn].
